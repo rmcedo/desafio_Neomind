@@ -1,7 +1,7 @@
 # **Desafio de Lógica e Programação | Neomind**
 <div align="center">
 
-![Logo da Neomind](https://www.neomind.com.br/wp-content/uploads/2018/04/logo-neomind-vertical.png = 300x300)
+![Logo da Neomind](https://www.neomind.com.br/wp-content/uploads/2018/04/logo-neomind-vertical.png width="100" height="100")
 
 </div>
 
