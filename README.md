@@ -1,7 +1,7 @@
 # **Desafio de Lógica e Programação | Neomind**
 <div align="center">
 
-![Logo da Neomind](https://www.neomind.com.br/wp-content/uploads/2018/04/logo-neomind-vertical.png)
+![Logo da Neomind](https://www.neomind.com.br/wp-content/uploads/2018/04/logo-neomind-vertical.png = 300x300)
 
 </div>
 
@@ -53,6 +53,7 @@ int retornaAnguloRelogio(int hora, int minuto);
         1.1. Caso não tenha instalado, faça o download pelo [link](https://www.oracle.com/java/technologies/downloads/#jdk19-windows) e faça a sua instalação.
 
 * 2. Instale ou utilize uma IDE de sua preferência
+
         2.1. Caso não tenha instalado, faça o download do IntelliJ Community pelo [link](https://www.jetbrains.com/idea/download/#section=windows) e faça sua instalação.
 
 * 3. Faça o download do projeto pelo [link](https://github.com/rmcedo/desafio_Neomind.git) e importe dentro da IDE.
